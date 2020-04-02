@@ -1,12 +1,4 @@
 <?php
-/*
- * For the full copyright and license information, please read the
- * LICENSE file that was distributed with this source code.
- */
-
-// TYPO3 Security Check
-defined('TYPO3_MODE') or die();
-
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Polaroyd Website Template',
 	'description' => 'The TYPO3 theme which includes complete template of this website.',
