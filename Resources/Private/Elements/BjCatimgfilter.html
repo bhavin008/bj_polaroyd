@@ -1,0 +1,40 @@
+{namespace bjsplit=BJ\BjPolaroyd\ViewHelpers}
+<div class="container">
+    <div class="row {f:if(condition: '{data.center_check}==1', then: 'centered', else: 'mt')}">
+        <div id="filters-container" class="cbp-l-filters-alignRight container col-sm-12">
+            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">
+                <f:translate key="all" extensionName="bj_polaroyd" />
+                <div class="cbp-filter-counter"></div>
+            </div>
+            <f:for each="{categories}" as="category" iteration="i">
+                <div data-filter=".category-{category.data.uid}" class="cbp-filter-item">
+                    {category.data.title}
+                    <div class="cbp-filter-counter"></div>
+                </div>
+            </f:for>
+        </div>
+    </div>
+</div>
+<div id="grid-container" class="cbp-l-grid-fullScreen">
+    <ul>
+        <f:for each="{catimgfilter}" as="catimg" iteration="i">
+            <li class="cbp-item <f:for each='{bjsplit:commasaperatedArray(values: catimg.data.category)}' as='cat'>category-{cat} </f:for>">
+                <a class="cbp-caption cbp-lightbox" data-title="{catimg.images.0.title}" href="{f:uri.image(src: catimg.images.0.uid, treatIdAsReference: '1')}">
+                    <div class="cbp-caption-defaultWrap">
+                        <f:image src="{catimg.images.0.uid}" alt="{catimg.images.0.alternative}" class="img-responsive" maxWidth="381" maxHeight="381" treatIdAsReference="1" />
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                        <div class="cbp-l-caption-alignCenter">
+                            <f:if condition="{catimg.images.0.description} && {catimg.images.0.title}">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">{catimg.images.0.title}</div>
+                                    <div class="cbp-l-caption-desc">{catimg.images.0.description}</div>
+                                </div>
+                            </f:if>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </f:for>
+    </ul>
+</div>

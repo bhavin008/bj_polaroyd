@@ -1,0 +1,20 @@
+{namespace bjsplit=BJ\BjPolaroyd\ViewHelpers}
+<div class="row">
+    <div class="col-sm-12">
+        <strong>
+            <f:translate key="LLL:EXT:bj_polaroyd/Resources/Private/Language/locallang_db.xlf:wizard.bj_team" extensionName="bj_polaroyd" />
+        </strong>
+    </div>
+    <f:for each="{teammembers}" as="team" iteration="i">
+        <div class="col-sm-3">
+            <f:for each="{team.irre_image}" as="image" iteration="i">
+                <f:image src="{image.uid}" maxWidth="200" maxHeight="200" treatIdAsReference="1" />
+            </f:for>
+            <h4 class="centered">{team.name}</h4>
+            <h5 class="centered">{team.shortname}</h5>
+            <p>
+                <f:format.raw>{team.description}</f:format.raw>
+            </p>
+        </div>
+    </f:for>
+</div>

@@ -1,0 +1,148 @@
+.gridelements_med-date,
+.gridelements_med-title {
+	padding-left: 8px;
+}
+.t3-page-ce {
+
+}
+.t3-page-ce .t3-page-ce-body-inner {
+	
+}
+.t3-page-ce.t3js-page-ce.t3js-page-ce-sortable.ui-draggable {
+}
+.t3-grid-table {
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+.t3-grid-container {
+	margin: 0 -10px;
+}
+.t3-page-ce-wrapper {
+	min-height: 0;
+}
+
+.t3-page-ce-wrapper-new-ce .btn {
+	opacity: 0.5;
+}
+.t3-page-ce-wrapper-new-ce .btn:hover {
+	opacity: 1;
+}
+.t3-grid-cell-horizontal .t3js-page-ce-sortable {
+}
+
+.t3-grid-bootstrapTabs > .t3-grid-container > .t3-grid-table,
+.t3-grid-bootstrapAccordion > .t3-grid-container > .t3-grid-table {
+	background-image:
+		linear-gradient(
+			315deg,
+			rgba(255, 255, 255, 0.15) 25%, transparent 25%,
+			transparent 50%, rgba(255, 255, 255, 0.15) 50%,
+			rgba(255, 255, 255, 0.15) 75%, transparent 75%,
+			transparent
+		);
+}
+.t3-grid-bootstrapSection > .t3-grid-container > .t3-grid-table {
+	background-color: #F39C12;
+}
+.t3-grid-bootstrapAccordion > .t3-grid-container > .t3-grid-table {
+	background-color: #2C3E50;
+	background-image:
+		linear-gradient(
+			180deg,
+			rgba(255, 255, 255, 0.15) 25%, transparent 25%,
+			transparent 50%, rgba(255, 255, 255, 0.15) 50%,
+			rgba(255, 255, 255, 0.15) 75%, transparent 75%,
+			transparent
+		);
+}
+.t3-grid-bootstrapTabs > .t3-grid-container > .t3-grid-table {
+	background-color: #913D88;
+	background-image:
+		linear-gradient(
+			90deg,
+			rgba(255, 255, 255, 0.15) 25%, transparent 25%,
+			transparent 50%, rgba(255, 255, 255, 0.15) 50%,
+			rgba(255, 255, 255, 0.15) 75%, transparent 75%,
+			transparent
+		);
+}
+.t3-grid-bootstrapWrapper > .t3-grid-container > .t3-grid-table {
+	background-color: #C90000;
+}
+.t3-grid-bootstrapColumn > .t3-grid-container > .t3-grid-table {
+	background-color: #5B4282;
+	background-image:
+		linear-gradient(
+			90deg,
+			transparent,
+            transparent 40%, rgba(255, 255, 255, 0.15) 40%,
+            rgba(255, 255, 255, 0.15) 60%, transparent 60%,
+            transparent
+		);
+	background-position: center center;
+}
+.t3-grid-bootstrap2Columns > .t3-grid-container > .t3-grid-table {
+	background-color: #7F8C8D;
+	background-image:
+		linear-gradient(
+			90deg,
+			rgba(255, 255, 255, 0.15) 20%, transparent 20%,
+			transparent 40%, rgba(255, 255, 255, 0.15) 40%,
+			rgba(255, 255, 255, 0.15) 60%, transparent 60%,
+			transparent 80%, rgba(255, 255, 255, 0.15) 80%,
+			transparent
+		);
+	background-position: center center;
+}
+.t3-grid-bootstrap3Columns > .t3-grid-container > .t3-grid-table {
+	background-color: #C0392B;
+	background-image:
+		linear-gradient(
+			90deg,
+			rgba(255, 255, 255, 0.15) 10%, transparent 10%,
+			transparent 30%, rgba(255, 255, 255, 0.15) 30%,
+			rgba(255, 255, 255, 0.15) 40%, transparent 40%,
+			transparent 60%, rgba(255, 255, 255, 0.15) 60%,
+			rgba(255, 255, 255, 0.15) 70%, transparent 70%,
+			transparent 90%, rgba(255, 255, 255, 0.15) 90%,
+			rgba(255, 255, 255, 0.15) 100%, transparent 100%,
+			transparent
+		);
+	background-position: center center;
+}
+.t3-grid-bootstrap4Columns > .t3-grid-container > .t3-grid-table {
+	background-color: #16A085;
+	background-image:
+		linear-gradient(
+			90deg,
+			rgba(255, 255, 255, 0.15) 8%, transparent 8%,
+			transparent 23%, rgba(255, 255, 255, 0.15) 23%,
+			rgba(255, 255, 255, 0.15) 31%, transparent 31%,
+			transparent 46%, rgba(255, 255, 255, 0.15) 46%,
+			rgba(255, 255, 255, 0.15) 54%, transparent 54%,
+			transparent 69%, rgba(255, 255, 255, 0.15) 69%,
+			rgba(255, 255, 255, 0.15) 77%, transparent 77%,
+			transparent 92%, rgba(255, 255, 255, 0.15) 92%,
+			rgba(255, 255, 255, 0.15) 100%, transparent 100%,
+			transparent
+		);
+	background-position: center center;
+}
+
+.t3-grid-bootstrapSection .t3-grid-cell,
+.t3-grid-bootstrap2Columns .t3-grid-cell,
+.t3-grid-bootstrap3Columns .t3-grid-cell,
+.t3-grid-bootstrap4Columns .t3-grid-cell,
+.t3-grid-bootstrapTabs .t3-grid-cell,
+.t3-grid-bootstrapAccordion .t3-grid-cell {
+	background-color: rgba(255, 255, 255, 0.85);
+}
+.t3-grid-bootstrapSection .t3-page-column-header-icons,
+.t3-grid-bootstrap2Columns .t3-page-column-header-icons,
+.t3-grid-bootstrap3Columns .t3-page-column-header-icons,
+.t3-grid-bootstrap4Columns .t3-page-column-header-icons,
+.t3-grid-bootstrapTabs .t3-page-column-header-icons,
+.t3-grid-bootstrapAccordion .t3-page-column-header-icons {
+	margin-right: 5px;
+}

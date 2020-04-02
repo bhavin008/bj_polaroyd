@@ -1,0 +1,83 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns:n="http://typo3.org/ns/GeorgRinger/News/ViewHelpers" data-namespace-typo3-fluid="true">
+<!--
+	=====================
+		Partials/List/Item.html
+-->
+<div class="col-lg-3 col-md-3 blog-list" style="margin-bottom: 50px;">
+    <n:excludeDisplayedNews newsItem="{newsItem}" />
+
+    <f:if condition="{newsItem.mediaPreviews}">
+        <!-- media preview element -->
+        <f:then>
+            <n:link newsItem="{newsItem}" settings="{settings}" title="{newsItem.title}">
+                <f:alias map="{mediaElement: newsItem.mediaPreviews.0}">
+                    <f:if condition="{mediaElement.originalResource.type} == 2">
+                        <f:image image="{mediaElement}" class="img-circle aligncenter" title="{mediaElement.originalResource.title}" alt="{mediaElement.originalResource.alternative}" maxWidth="{f:if(condition: settings.media.maxWidth, then: settings.media.maxWidth, else: settings.list.media.image.maxWidth)}"
+                            maxHeight="{f:if(condition: settings.media.maxHeight, then: settings.media.maxHeight, else: settings.list.media.image.maxHeight)}" />
+                    </f:if>
+                    <f:if condition="{mediaElement.originalResource.type} == 4">
+                        <f:image src="{settings.list.media.dummyImage}" class="img-circle aligncenter" title="" alt="" maxWidth="{f:if(condition: settings.media.maxWidth, then: settings.media.maxWidth, else: settings.list.media.image.maxWidth)}" maxHeight="{f:if(condition: settings.media.maxHeight, then: settings.media.maxHeight, else: settings.list.media.image.maxHeight)}"
+                        />
+                    </f:if>
+                    <f:if condition="{mediaElement.originalResource.type} == 5">
+                        <f:image image="{mediaElement}" class="img-circle aligncenter" title="{mediaElement.originalResource.title}" alt="{mediaElement.originalResource.alternative}" maxWidth="{f:if(condition: settings.media.maxWidth, then: settings.media.maxWidth, else: settings.list.media.image.maxWidth)}"
+                            maxHeight="{f:if(condition: settings.media.maxHeight, then: settings.media.maxHeight, else: settings.list.media.image.maxHeight)}" />
+                    </f:if>
+                </f:alias>
+            </n:link>
+        </f:then>
+        <f:else>
+            <f:if condition="{settings.displayDummyIfNoMedia}">
+                <n:link newsItem="{newsItem}" settings="{settings}" title="{newsItem.title}">
+                    <f:image src="{settings.list.media.dummyImage}" class="img-circle aligncenter" title="" alt="" maxWidth="{f:if(condition: settings.media.maxWidth, then: settings.media.maxWidth, else: settings.list.media.image.maxWidth)}" maxHeight="{f:if(condition: settings.media.maxHeight, then: settings.media.maxHeight, else: settings.list.media.image.maxHeight)}"
+                    />
+                </n:link>
+            </f:if>
+        </f:else>
+    </f:if>
+
+    <!-- header -->
+    <p class="centered">
+        <n:link newsItem="{newsItem}" settings="{settings}" title="{newsItem.title}" class="btitle">
+            <span>{newsItem.title}</span>
+        </n:link>
+    </p>
+    <!-- teaser -->
+    <div class="teaser-text">
+        <n:removeMediaTags>
+            <f:if condition="{newsItem.teaser}">
+                <f:then>
+                    <div>{newsItem.teaser -> f:format.crop(maxCharacters: '{settings.cropMaxCharacters}', respectWordBoundaries:'1') -> f:format.html()}</div>
+                </f:then>
+                <f:else>
+                    <div>{newsItem.bodytext -> f:format.crop(maxCharacters: '{settings.cropMaxCharacters}', respectWordBoundaries:'1') -> f:format.html()}</div>
+                </f:else>
+            </f:if>
+        </n:removeMediaTags>
+    </div>
+
+    <!-- footer information -->
+    <div class="footer">
+        <p>
+            <!-- date -->
+            <span class="news-list-date">
+				<time datetime="{f:format.date(date:newsItem.datetime, format:'Y-m-d')}">
+					<f:format.date format="{f:translate(key:'dateFormat')}">{newsItem.datetime}</f:format.date>
+				</time>
+			</span>
+
+            <f:if condition="{newsItem.tags}">
+                <!-- Tags -->
+                <span class="news-list-tags">
+					<f:for each="{newsItem.tags}" as="tag" iteration='i'>
+						<f:if condition="{i.isFirst}">
+                            {tag.title}
+                        </f:if>
+					</f:for>
+				</span>
+            </f:if>
+        </p>
+    </div>
+</div>
+
+</html>

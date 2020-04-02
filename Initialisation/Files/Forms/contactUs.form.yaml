@@ -1,0 +1,94 @@
+
+renderingOptions:
+  submitButtonLabel: 'Send Message'
+identifier: contactUs
+label: 'Contact Us'
+type: Form
+prototypeName: standard
+finishers:
+  -
+    options:
+      subject: 'Your message: {subject}'
+      recipientAddress: your.company@example.com
+      recipientName: 'Your Company name'
+      senderAddress: '{email}'
+      senderName: '{name}'
+      replyToAddress: ''
+      carbonCopyAddress: ''
+      blindCarbonCopyAddress: ''
+      format: html
+      attachUploads: true
+      translation:
+        language: ''
+    identifier: EmailToReceiver
+  -
+    options:
+      pageUid: '20'
+      additionalParameters: ''
+    identifier: Redirect
+renderables:
+  -
+    renderingOptions:
+      previousButtonLabel: 'Previous step'
+      nextButtonLabel: 'Next step'
+    identifier: page-1
+    label: ''
+    type: Page
+    renderables:
+      -
+        defaultValue: ''
+        identifier: name
+        label: Name
+        type: Text
+        properties:
+          fluidAdditionalAttributes:
+            placeholder: Name
+            required: required
+        validators:
+          -
+            identifier: NotEmpty
+      -
+        defaultValue: ''
+        identifier: email
+        label: Email
+        type: Text
+        properties:
+          fluidAdditionalAttributes:
+            placeholder: 'Email address'
+            required: required
+        validators:
+          -
+            identifier: NotEmpty
+          -
+            identifier: EmailAddress
+      -
+        defaultValue: ''
+        identifier: subject
+        label: Subject
+        type: Text
+        properties:
+          fluidAdditionalAttributes:
+            placeholder: Subject
+            required: required
+        validators:
+          -
+            identifier: NotEmpty
+      -
+        defaultValue: ''
+        identifier: message
+        label: Message
+        type: Textarea
+        properties:
+          fluidAdditionalAttributes:
+            placeholder: ''
+            required: required
+        validators:
+          -
+            identifier: NotEmpty
+  -
+    renderingOptions:
+      previousButtonLabel: 'Previous step'
+      nextButtonLabel: 'Next step'
+    identifier: summarypage
+    label: 'Summary page'
+    type: SummaryPage

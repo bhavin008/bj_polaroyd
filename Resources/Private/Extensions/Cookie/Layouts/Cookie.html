@@ -1,0 +1,32 @@
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript" data-ignore="1">
+    window.cookieconsent_options = {
+        js:'<f:uri.resource absolute="1" path="js/cookieconsent.min.js" extensionName="bj_polaroyd" />',
+        css:'<f:uri.resource absolute="1" path="css/cookieconsent.min.css" extensionName="bj_polaroyd" />',
+        content: {
+            message:'<f:translate key="message" extensionName="bj_polaroyd" />',
+            dismiss:'<f:translate key="dismiss" extensionName="bj_polaroyd" />',
+            allow:'<f:translate key="dismiss" extensionName="bj_polaroyd" />',
+            deny: '<f:translate key="deny" extensionName="bj_polaroyd" />',
+            link:'<f:translate key="link" extensionName="bj_polaroyd" />',
+            href:'<f:uri.page pageUid="{settings.url}" />',
+            policy: '<f:translate key="policy" extensionName="bj_polaroyd" />',
+        },
+        theme: '<f:format.raw>{settings.theme}</f:format.raw>',
+        position: '<f:format.raw>{settings.position}</f:format.raw>',
+        type: '<f:format.raw>{settings.type}</f:format.raw>',
+        dismissOnScroll: parseInt('<f:format.raw>{settings.dismissOnScroll}</f:format.raw>')||false,
+        palette: {
+            popup: {
+                background: '<f:format.raw>{settings.barBg}</f:format.raw>',
+                text: '<f:format.raw>{settings.barColor}</f:format.raw>'
+            },
+            button: {
+                background: '<f:format.raw>{settings.btnBg}</f:format.raw>',
+                text: '<f:format.raw>{settings.btnColor}</f:format.raw>',
+            }
+        }
+    };
+</script>
+<script type="text/javascript" data-ignore="1" defer src="{f:uri.resource(extensionName: 'bj_polaroyd', path:'js/cookie.min.js', absolute: 1)}?v=9.5.2"></script>
+<!-- End Cookie Consent plugin -->

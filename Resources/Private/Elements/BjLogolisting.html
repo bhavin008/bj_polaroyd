@@ -1,0 +1,16 @@
+<ul class="row hidden-sm clients mt2">
+    <f:for each="{images}" as="image" iteration="i">
+        <li class="banner-wrap col-sm-3">
+            <figure class="featured-thumbnail">
+                <f:link.typolink parameter="{image.link}">
+                    <f:image src="{image.uid}" treatIdAsReference="1" alt="{image.alternative}" title="{image.title}" maxHeight="200" maxWidth="200" />
+                </f:link.typolink>
+                <f:if condition="{image.description}">
+                    <figcaption>
+                        <h2 class="photostack-title">{image.description}</h2>
+                    </figcaption>
+                </f:if>
+            </figure>
+        </li>
+    </f:for>
+</ul>

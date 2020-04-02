@@ -1,0 +1,16 @@
+<section id="photostack-1" class="photostack photostack-start">
+    <div>
+        <f:for each="{images}" as="image" iteration="i">
+            <figure>
+                <f:link.typolink parameter="{image.link}">
+                    <f:image src="{image.uid}" treatIdAsReference="1" alt="{image.alternative}" title="{image.title}" maxHeight="240" maxWidth="240"/>
+                </f:link.typolink>
+                <f:if condition="{image.description}">
+                    <figcaption>
+                        <h2 class="photostack-title">{image.description}</h2>
+                      </figcaption>
+                </f:if>
+            </figure>
+        </f:for>
+    </div>
+</section>

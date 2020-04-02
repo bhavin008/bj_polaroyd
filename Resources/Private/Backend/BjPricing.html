@@ -1,0 +1,21 @@
+<div class="row pricing">
+    <div class="col-sm-12">
+        <strong>
+                <f:translate key="LLL:EXT:bj_polaroyd/Resources/Private/Language/locallang_db.xlf:wizard.bj_pricing" extensionName="bj_polaroyd" />
+            </strong>
+    </div>
+    <f:for each="{pricings}" as="pricing" iteration="i">
+        <div class="col-lg-3 col-md-3 {f:if(condition: '{pricing.highlight}==1', then: 'highlight')} {f:if(condition: '{pricing.topborder}==1', then: 'border')}" style="margin-bottom:50px;">
+            <br />
+            <h3>{pricing.header}</h3>
+            <div class="num">
+                <sup>{pricing.currency}</sup>
+                <ins>{pricing.amount}</ins>
+            </div>
+            <f:format.raw>
+                {pricing.description}
+                <br />
+            </f:format.raw>
+        </div>
+    </f:for>
+</div>

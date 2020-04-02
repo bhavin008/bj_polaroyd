@@ -1,0 +1,15 @@
+{namespace bjsplit=BJ\BjPolaroyd\ViewHelpers}
+<div class="row">
+    <div class="col-sm-12">
+        <strong>
+            <f:translate key="LLL:EXT:bj_polaroyd/Resources/Private/Language/locallang_db.xlf:wizard.bj_catimgfilter" extensionName="bj_polaroyd" />
+        </strong>
+    </div>
+    <f:for each="{catimgfilter}" as="catimg" iteration="i">
+        <div class="col-sm-3">
+            <f:for each="{catimg.irre_image}" as="image" iteration="i">
+                <f:image src="{image.uid}" maxWidth="200" maxHeight="200" treatIdAsReference="1" />
+            </f:for>
+        </div>
+    </f:for>
+</div>

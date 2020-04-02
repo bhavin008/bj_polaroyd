@@ -1,0 +1,47 @@
+<f:if condition="{data.polaroyd_sliderlayout}=='carousel'">
+    <f:then>
+        <div class="section-works">
+            <div class="container aligncenter">
+                <div id="myCarousel-{data.uid}" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <f:for each="{images}" as="image" iteration="i">
+                            <li data-target="#myCarousel-{data.uid}" data-slide-to="{i.index}" class="{f:if(condition: '{i.isFirst}', then: 'active')}"></li>
+                        </f:for>
+                    </ol>
+                    <div class="carousel-inner">
+                        <f:for each="{images}" as="image" iteration="i">
+                            <div class="item {f:if(condition: '{i.isFirst}', then: 'active')}">
+                                <f:image src="{image.uid}" treatIdAsReference="1" alt="{image.alternative}" title="{image.title}" maxWidth="1200" />
+                            </div>
+                        </f:for>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </f:then>
+    <f:else>
+        <section id="slides">
+            <ul class="slides-container">
+                <f:for each="{images}" as="image" iteration="i">
+                    <li>
+                        <f:link.typolink parameter="{image.link}">
+                            <f:image src="{image.uid}" treatIdAsReference="1" alt="{image.alternative}" title="{image.title}" maxWidth="1900" />
+                        </f:link.typolink>
+                    </li>
+                </f:for>
+            </ul>
+            <div id="bannertext">
+                <h3>{data.subheader}</h3>
+                <h1>{data.header}</h1>
+            </div>
+            <nav class="slides-navigation">
+                <a href="javascript:;" class="next">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                <a href="javascript:;" class="prev">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            </nav>
+        </section>
+    </f:else>
+</f:if>

@@ -1,0 +1,2073 @@
+<T3DataStructure>
+	<meta type="array">
+		<langDisable>1</langDisable>
+		<langDatabaseOverlay>1</langDatabaseOverlay>
+	</meta>
+	<sheets>
+		<general>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:colNormal</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<width_column_md_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1">not</numIndex>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-12</numIndex>
+									</numIndex>
+								</items>
+								<default>col-md-4</default>
+							</config>
+						</TCEforms>
+					</width_column_md_1>
+					<width_column_md_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1">not</numIndex>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-12</numIndex>
+									</numIndex>
+								</items>
+								<default>col-md-4</default>
+							</config>
+						</TCEforms>
+					</width_column_md_2>
+					<width_column_md_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1">not</numIndex>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-12</numIndex>
+									</numIndex>
+								</items>
+								<default>col-md-4</default>
+							</config>
+						</TCEforms>
+					</width_column_md_3>
+					<offset_column_md_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-md-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_md_1>
+					<offset_column_md_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-md-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_md_2>
+					<offset_column_md_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-md-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-md-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-md-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-md-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-md-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-md-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-md-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-md-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-md-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-md-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-md-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-md-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-md-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_md_3>
+				</el>
+			</ROOT>
+		</general>
+		<columns_xs>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:colXtraSmall</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<width_column_xs_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xs_1>
+					<width_column_xs_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xs_2>
+					<width_column_xs_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xs_3>
+					<offset_column_xs_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xs-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xs_1>
+					<offset_column_xs_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xs-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xs_2>
+					<offset_column_xs_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xs-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xs-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xs-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xs-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xs-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xs-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xs-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xs-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xs-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xs-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xs-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xs-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xs-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xs_3>
+				</el>
+			</ROOT>
+		</columns_xs>
+		<columns_sm>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:colSmall</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<width_column_sm_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_sm_1>
+					<width_column_sm_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_sm_2>
+					<width_column_sm_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_sm_3>
+					<offset_column_sm_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-sm-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_sm_1>
+					<offset_column_sm_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-sm-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_sm_2>
+					<offset_column_sm_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-sm-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-sm-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-sm-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-sm-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-sm-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-sm-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-sm-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-sm-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-sm-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-sm-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-sm-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-sm-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-sm-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_sm_3>
+				</el>
+			</ROOT>
+		</columns_sm>
+		<columns_lg>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:colBig</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<width_column_lg_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_lg_1>
+					<width_column_lg_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_lg_2>
+					<width_column_lg_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_lg_3>
+					<offset_column_lg_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-lg-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_lg_1>
+					<offset_column_lg_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-lg-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_lg_2>
+					<offset_column_lg_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-lg-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-lg-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-lg-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-lg-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-lg-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-lg-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-lg-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-lg-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-lg-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-lg-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-lg-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-lg-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-lg-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_lg_3>
+				</el>
+			</ROOT>
+		</columns_lg>
+		<columns_xl>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:Extralarge</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<width_column_xl_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xl_1>
+					<width_column_xl_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xl_2>
+					<width_column_xl_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:sizeRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-1</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-2</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-3</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-4</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-5</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-6</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-7</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-8</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-9</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-10</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-11</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-12</numIndex>
+									</numIndex>
+								</items>
+							</config>
+						</TCEforms>
+					</width_column_xl_3>
+
+					<offset_column_xl_1>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetLeft</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xl-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xl_1>
+					<offset_column_xl_2>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetMiddle</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xl-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xl_2>
+					<offset_column_xl_3>
+						<TCEforms>
+							<exclude>0</exclude>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:offsetRight</label>
+							<config>
+								<type>select</type>
+								<items type="array">
+									<numIndex index="0" type="array">
+										<numIndex index="0">LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:notDefined</numIndex>
+										<numIndex index="1"/>
+									</numIndex>
+									<numIndex index="1" type="array">
+										<numIndex index="0">0/12</numIndex>
+										<numIndex index="1">col-xl-offset-0</numIndex>
+									</numIndex>
+									<numIndex index="2" type="array">
+										<numIndex index="0">1/12</numIndex>
+										<numIndex index="1">col-xl-offset-1</numIndex>
+									</numIndex>
+									<numIndex index="3" type="array">
+										<numIndex index="0">2/12</numIndex>
+										<numIndex index="1">col-xl-offset-2</numIndex>
+									</numIndex>
+									<numIndex index="4" type="array">
+										<numIndex index="0">3/12</numIndex>
+										<numIndex index="1">col-xl-offset-3</numIndex>
+									</numIndex>
+									<numIndex index="5" type="array">
+										<numIndex index="0">4/12</numIndex>
+										<numIndex index="1">col-xl-offset-4</numIndex>
+									</numIndex>
+									<numIndex index="6" type="array">
+										<numIndex index="0">5/12</numIndex>
+										<numIndex index="1">col-xl-offset-5</numIndex>
+									</numIndex>
+									<numIndex index="7" type="array">
+										<numIndex index="0">6/12</numIndex>
+										<numIndex index="1">col-xl-offset-6</numIndex>
+									</numIndex>
+									<numIndex index="8" type="array">
+										<numIndex index="0">7/12</numIndex>
+										<numIndex index="1">col-xl-offset-7</numIndex>
+									</numIndex>
+									<numIndex index="9" type="array">
+										<numIndex index="0">8/12</numIndex>
+										<numIndex index="1">col-xl-offset-8</numIndex>
+									</numIndex>
+									<numIndex index="10" type="array">
+										<numIndex index="0">9/12</numIndex>
+										<numIndex index="1">col-xl-offset-9</numIndex>
+									</numIndex>
+									<numIndex index="11" type="array">
+										<numIndex index="0">10/12</numIndex>
+										<numIndex index="1">col-xl-offset-10</numIndex>
+									</numIndex>
+									<numIndex index="12" type="array">
+										<numIndex index="0">11/12</numIndex>
+										<numIndex index="1">col-xl-offset-11</numIndex>
+									</numIndex>
+									<numIndex index="13" type="array">
+										<numIndex index="0">12/12</numIndex>
+										<numIndex index="1">col-xl-offset-12</numIndex>
+									</numIndex>
+								</items>
+								<default></default>
+							</config>
+						</TCEforms>
+					</offset_column_xl_3>
+				</el>
+			</ROOT>
+		</columns_xl>
+		<additional>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:additional</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<col_1_textcenter>
+						<TCEforms>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:col_1_textcenter</label>
+							<config>
+								<type>check</type>
+								<default>0</default>
+							</config>
+						</TCEforms>
+					</col_1_textcenter>
+					<col_2_textcenter>
+						<TCEforms>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:col_2_textcenter</label>
+							<config>
+								<type>check</type>
+								<default>0</default>
+							</config>
+						</TCEforms>
+					</col_2_textcenter>
+					<col_3_textcenter>
+						<TCEforms>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:col_3_textcenter</label>
+							<config>
+								<type>check</type>
+								<default>0</default>
+							</config>
+						</TCEforms>
+					</col_3_textcenter>
+					<border>
+						<TCEforms>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:border</label>
+							<config>
+								<type>check</type>
+								<default>0</default>
+							</config>
+						</TCEforms>
+					</border>
+				</el>
+			</ROOT>
+		</additional>
+	</sheets>
+</T3DataStructure>

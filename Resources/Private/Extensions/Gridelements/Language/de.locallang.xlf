@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2015-10-01T10:30:00Z" product-name="bj_polaroyd">
+        <header/>
+        <body>
+            <trans-unit id="background">
+                <target>Hintergrund</target>
+            </trans-unit>
+            <trans-unit id="background.backgroundImage">
+                <target>Hintergrund Bild</target>
+            </trans-unit>
+            <trans-unit id="background.backgroundColor">
+                <target>Hintergrund Farbe</target>
+            </trans-unit>
+            <trans-unit id="background.backgroundPosition">
+                <target>Hintergrund Position</target>
+            </trans-unit>
+            
+            <trans-unit id="config">
+                <target>Konfiguration</target>
+            </trans-unit>
+            <trans-unit id="config.closed">
+                <target>Geschlossen</target>
+            </trans-unit>
+            
+            <trans-unit id="options">
+                <target>Optionen</target>
+            </trans-unit>
+            <trans-unit id="options.rowFlex">
+                <target>Flex</target>
+            </trans-unit>
+            
+            <trans-unit id="container">
+                <target>Container</target>
+            </trans-unit>
+            <trans-unit id="container.containerWrap">
+                <target>Container umschließen</target>
+            </trans-unit>
+            <trans-unit id="container.containerFlex">
+                <target>Container Flex</target>
+            </trans-unit>
+            <trans-unit id="container.containerType">
+                <target>Container Typ</target>
+            </trans-unit>
+            <trans-unit id="container.containerType.normal">
+                <target>Normal</target>
+            </trans-unit>
+            <trans-unit id="container.containerType.fluid">
+                <target>Fluid</target>
+            </trans-unit>
+            
+            <trans-unit id="attributes">
+                <target>Attribute</target>
+            </trans-unit>
+            <trans-unit id="attributes.id">
+                <target>ID</target>
+            </trans-unit>
+            <trans-unit id="attributes.layout">
+                <target>Layout</target>
+            </trans-unit>
+            <trans-unit id="attributes.layout.0">
+                <target>Standard</target>
+            </trans-unit>
+            <trans-unit id="attributes.classes">
+                <target>CSS Klassen</target>
+            </trans-unit>
+            <trans-unit id="attributes.spacingTop">
+                <target>Abstand Oben</target>
+            </trans-unit>
+            <trans-unit id="attributes.spacingBottom">
+                <target>Abstand Unten</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses">
+                <target>Vordefinierte CSS Klassen</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.light">
+                <target>Hell</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.dark">
+                <target>Dunkel</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.tabs">
+                <target>Tabs</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.pills">
+                <target>Pills</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.fade">
+                <target>Fade</target>
+            </trans-unit>
+            <trans-unit id="attributes.predefinedClasses.justified">
+                <target>Gleiche Breite der Elemente</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapSection.title">
+                <target>Bootstrap Sektion</target>
+            </trans-unit>
+            <trans-unit id="bootstrapSection.description">
+                <target>Füge eine Sektion hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapSection.content">
+                <target>Bootstrap Sektion Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapContainer.title">
+                <target>Bootstrap Container</target>
+            </trans-unit>
+            <trans-unit id="bootstrapContainer.description">
+                <target>Füge einen Container hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapContainer.content">
+                <target>Bootstrap Container Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapWrapper.title">
+                <target>Bootstrap Wrapper</target>
+            </trans-unit>
+            <trans-unit id="bootstrapWrapper.description">
+                <target>Füge einen Wrapper hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapWrapper.content">
+                <target>Bootstrap Wrapper Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapTabs.title">
+                <target>Bootstrap Tabs</target>
+            </trans-unit>
+            <trans-unit id="bootstrapTabs.description">
+                <target>Füge Tabs hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapTabs.content">
+                <target>Bootstrap Tabs Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapAccordion.title">
+                <target>Bootstrap Akkordeon</target>
+            </trans-unit>
+            <trans-unit id="bootstrapAccordion.description">
+                <target>Füge ein Akkordeon hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapAccordion.content">
+                <target>Bootstrap Akkordeon Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapItem.title">
+                <target>Bootstrap Item</target>
+            </trans-unit>
+            <trans-unit id="bootstrapItem.description">
+                <target>Inserts a Item for Tabs or Accordion (The header is required)</target>
+            </trans-unit>
+            <trans-unit id="bootstrapItem.content">
+                <target>Bootstrap Item Content</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapInfobox.title">
+                <target>Bootstrap Infobox</target>
+            </trans-unit>
+            <trans-unit id="bootstrapInfobox.description">
+                <target>Füge eine Infobox hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapInfobox.content">
+                <target>Bootstrap Infobox Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapBackendContainer.title">
+                <target>Bootstrap Backend Container</target>
+            </trans-unit>
+            <trans-unit id="bootstrapBackendContainer.description">
+                <target>Füge einen Backend Container hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapBackendContainer.content">
+                <target>Bootstrap Backend Container Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrapColumn.title">
+                <target>Bootstrap Spalte</target>
+            </trans-unit>
+            <trans-unit id="bootstrapColumn.description">
+                <target>Füge eine Spalte hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrapColumn.content">
+                <target>Bootstrap Spalten Inhalt</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrap2Columns.title">
+                <target>Bootstrap 2 Spalten</target>
+            </trans-unit>
+            <trans-unit id="bootstrap2Columns.description">
+                <target>Füge 2 Spalten hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrap2Columns.contentLeft">
+                <target>Bootstrap 2 Spalten Inhalt links</target>
+            </trans-unit>
+            <trans-unit id="bootstrap2Columns.contentRight">
+                <target>Bootstrap 2 Spalten Inhalt rechts</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrap3Columns.title">
+                <target>Bootstrap 3 Spalten</target>
+            </trans-unit>
+            <trans-unit id="bootstrap3Columns.description">
+                <target>Füge 3 Spalten hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrap3Columns.contentLeft">
+                <target>Bootstrap 3 Spalten Inhalt links</target>
+            </trans-unit>
+            <trans-unit id="bootstrap3Columns.contentMiddle">
+                <target>Bootstrap 3 Spalten Inhalt mitte</target>
+            </trans-unit>
+            <trans-unit id="bootstrap3Columns.contentRight">
+                <target>Bootstrap 3 Spalten Inhalt rechts</target>
+            </trans-unit>
+            
+            <trans-unit id="bootstrap4Columns.title">
+                <target>Bootstrap 4 Spalten</target>
+            </trans-unit>
+            <trans-unit id="bootstrap4Columns.description">
+                <target>Füge 4 Spalten hinzu</target>
+            </trans-unit>
+            <trans-unit id="bootstrap4Columns.contentLeft">
+                <target>Bootstrap 4 Spalten Inhalt links</target>
+            </trans-unit>
+            <trans-unit id="bootstrap4Columns.contentMiddleLeft">
+                <target>Bootstrap 4 Spalten Inhalt mitte links</target>
+            </trans-unit>
+            <trans-unit id="bootstrap4Columns.contentMiddleRight">
+                <target>Bootstrap 4 Spalten Inhalt mitte rechts</target>
+            </trans-unit>
+            <trans-unit id="bootstrap4Columns.contentRight">
+                <target>Bootstrap 4 Spalten Inhalt rechts</target>
+            </trans-unit>
+            <trans-unit id="2cols">
+                <target>2 Spalten</target>
+            </trans-unit>
+            <trans-unit id="2colsDesc">
+                <target>Fügt ein 2-spaltiges Element hinzu</target>
+            </trans-unit>
+            <trans-unit id="3cols">
+                <target>3 Spalten</target>
+            </trans-unit>
+            <trans-unit id="3colsDesc">
+                <target>Fügt ein 3-spaltiges Element hinzu</target>
+            </trans-unit>
+            <trans-unit id="4cols">
+                <target>4 Spalten</target>
+            </trans-unit>
+            <trans-unit id="4colsDesc">
+                <target>Fügt ein 4-spaltiges Element hinzu</target>
+            </trans-unit>   
+            <trans-unit id="section">
+                <target>Sektion</target>
+            </trans-unit>
+            <trans-unit id="sectionDesc">
+                <target>Fügt eine Sektion hinzu</target>
+            </trans-unit>   
+            <trans-unit id="container">
+                <target>Container</target>
+            </trans-unit>
+            <trans-unit id="containerDesc">
+                <target>Fügt einen Container hinzu</target>
+            </trans-unit>
+            <trans-unit id="backendContainer">
+                <target>Backend container</target>
+            </trans-unit>
+            <trans-unit id="backendContainerDesc">
+                <target>Fügt einen Backend Container hinzu</target>
+            </trans-unit>   
+            <trans-unit id="infobox">
+                <target>Infobox</target>
+            </trans-unit>
+            <trans-unit id="infoboxDesc">
+                <target>Fügt eine Infobox hinzu</target>
+            </trans-unit>
+            <trans-unit id="contentLeft">
+                <target>Content Links</target>
+            </trans-unit>
+            <trans-unit id="contentMiddleLeft">
+                <target>Content Mitte Links</target>
+            </trans-unit>
+            <trans-unit id="contentMiddle">
+                <target>Content Mitte</target>
+            </trans-unit>
+            <trans-unit id="contentMiddleRight">
+                <target>Content Mitte Rechts</target>
+            </trans-unit>
+            <trans-unit id="contentRight">
+                <target>Content Rechts</target>
+            </trans-unit>
+            <trans-unit id="sectionContent">
+                <target>Sektion Content</target>
+            </trans-unit>
+            <trans-unit id="containerContent">
+                <target>Container Content</target>
+            </trans-unit>
+            <trans-unit id="backendContainerContent">
+                <target>Backend Container Content</target>
+            </trans-unit>
+            <trans-unit id="infoboxContent">
+                <target>Infobox Content</target>
+            </trans-unit>
+
+            <trans-unit id="colNormal">
+                <target><![CDATA[Medium (≥992px)]]></target>
+            </trans-unit>
+            <trans-unit id="colXtraSmall">
+                <target><![CDATA[Sehr klein (<768px)]]></target>
+            </trans-unit>
+            <trans-unit id="colSmall">
+                <target><![CDATA[Klein (≥768px)]]></target>
+            </trans-unit>
+            <trans-unit id="colBig">
+                <target><![CDATA[Groß (≥1200px)]]></target>
+            </trans-unit>
+
+            <trans-unit id="sizeLeft">
+                <target>Größe Links</target>
+            </trans-unit>
+            <trans-unit id="sizeMiddleLeft">
+                <target>Größe Mitte Links</target>
+            </trans-unit>
+            <trans-unit id="sizeMiddle">
+                <target>Größe Mitte</target>
+            </trans-unit>
+            <trans-unit id="sizeMiddleRight">
+                <target>Größe Mitte Rechts</target>
+            </trans-unit>
+            <trans-unit id="sizeRight">
+                <target>Größe Rechts</target>
+            </trans-unit>
+
+            <trans-unit id="colLeft">
+                <target>Linke Spalte</target>
+            </trans-unit>
+            <trans-unit id="colMiddleLeft">
+                <target>Mittlere Linke Spalte</target>
+            </trans-unit>
+            <trans-unit id="colMiddle">
+                <target>Mittlere Spalte</target>
+            </trans-unit>
+            <trans-unit id="colMiddleRight">
+                <target>Mittlere Rechte Spalte</target>
+            </trans-unit>
+            <trans-unit id="colRight">
+                <target>Rechte Spalte</target>
+            </trans-unit>
+
+            <trans-unit id="offset">
+                <target>Offset</target>
+            </trans-unit>
+            <trans-unit id="offsetLeft">
+                <target>Offset Links</target>
+            </trans-unit>
+            <trans-unit id="offsetMiddleLeft">
+                <target>Offset Mitte Links</target>
+            </trans-unit>
+            <trans-unit id="offsetMiddle">
+                <target>Offset Mitte</target>
+            </trans-unit>
+            <trans-unit id="offsetMiddleRight">
+                <target>Offset Mitte Rechts</target>
+            </trans-unit>
+            <trans-unit id="offsetRight">
+                <target>Offset Rechts</target>
+            </trans-unit>
+
+            <trans-unit id="notDefined">
+                <target>Nicht definiert</target>
+            </trans-unit>
+
+            <trans-unit id="visibility">
+                <target>Sichtbarkeit</target>
+            </trans-unit>
+            <trans-unit id="fullElement">
+                <target>Ganzes Element</target>
+            </trans-unit>
+            <trans-unit id="hiddenXS">
+                <target>Nicht sichtbar auf sehr klein</target>
+            </trans-unit>
+            <trans-unit id="hiddenS">
+                <target>Nicht sichtbar auf klein</target>
+            </trans-unit>
+            <trans-unit id="hiddenN">
+                <target>Nicht sichtbar auf medium</target>
+            </trans-unit>
+            <trans-unit id="hiddenL">
+                <target>Nicht sichtbar auf groß</target>
+            </trans-unit>
+            <trans-unit id="visibleXS">
+                <target>Nur sichtbar auf sehr klein</target>
+            </trans-unit>
+            <trans-unit id="visibleS">
+                <target>Nur sichtbar auf klein</target>
+            </trans-unit>
+            <trans-unit id="visibleN">
+                <target>Nur sichtbar auf medium</target>
+            </trans-unit>
+            <trans-unit id="visibleL">
+                <target>Nur sichtbar auf groß</target>
+            </trans-unit>
+
+            <trans-unit id="backgroundColor">
+                <target>Hintergrundfarbe</target>
+            </trans-unit>   
+
+            <trans-unit id="general">
+                <target>Allgemein</target>
+            </trans-unit>
+            <trans-unit id="size">
+                <target>Größe</target>
+            </trans-unit>
+            <trans-unit id="sizeDefault">
+                <target>Standard</target>
+            </trans-unit>
+            <trans-unit id="sizeLarge">
+                <target>Groß</target>
+            </trans-unit>
+            <trans-unit id="sizeSmall">
+                <target>Klein</target>
+            </trans-unit>
+
+            <trans-unit id="background">
+                <target>Hintergrund</target>
+            </trans-unit>   
+            <trans-unit id="backgroundPosition">
+                <target>Hintergrund Position</target>
+            </trans-unit>
+            <trans-unit id="options">
+                <target>Optionen</target>
+            </trans-unit>
+            <trans-unit id="classes">
+                <target>CSS Klassen</target>
+            </trans-unit>
+            <trans-unit id="id">
+                <target>CSS ID</target>
+            </trans-unit>
+            <trans-unit id="padding">
+                <target>Padding</target>
+            </trans-unit>   
+
+            <trans-unit id="mainTemplate">
+                <target>Haupttemplate</target>
+            </trans-unit>   
+            <trans-unit id="teaser">
+                <target>Teaser</target>
+            </trans-unit>   
+            <trans-unit id="content">
+                <target>Content</target>
+            </trans-unit>   
+
+            <trans-unit id="fade">
+                <target>Fade</target>
+            </trans-unit>
+            <trans-unit id="type">
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="tabs">
+                <target>Tabs</target>
+            </trans-unit>
+            <trans-unit id="pills">
+                <target>Pills</target>
+            </trans-unit>   
+            <trans-unit id="tabsContainer">
+                <target>Tabs Container</target>
+            </trans-unit>   
+            <trans-unit id="tabsContainerDesc">
+                <target>Fügt einen Tab Container hinzu</target>
+            </trans-unit>   
+            <trans-unit id="tab">
+                <target>Tab Element</target>
+            </trans-unit>   
+            <trans-unit id="tabDesc">
+                <target>Fügt ein Tab Element hinzu</target>
+            </trans-unit>   
+            <trans-unit id="content">
+                <target>Content</target>
+            </trans-unit>   
+
+            <trans-unit id="accordionContainer">
+                <target>Akkordeon Container</target>
+            </trans-unit>
+            <trans-unit id="accordionContainerDesc">
+                <target>Fügt ein Akkordeon Container hinzu</target>
+            </trans-unit>
+            <trans-unit id="accordion">
+                <target>Akkordeon Element</target>
+            </trans-unit>
+            <trans-unit id="accordionDesc">
+                <target>Fügt ein Akkordeon Element hinzu</target>
+            </trans-unit>
+
+            <trans-unit id="textCenter">
+                <target>Zentriert?</target>
+            </trans-unit>
+
+            <trans-unit id="storageTemplate">
+                <target>Storage Folder Template</target>
+            </trans-unit>   
+
+            <trans-unit id="color">
+                <target>Farbe</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

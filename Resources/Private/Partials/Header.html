@@ -1,0 +1,45 @@
+<div class="container nav-container">
+    <f:if condition="{settings.logo}">
+        <div class="logo">
+            <f:link.page pageUid="{settings.rootpage}">
+                <f:image src="{settings.logo}" treatIdAsReference="1" alt="Polaroyd" />
+            </f:link.page>
+        </div>
+        <div class="custom-navbar">
+            <a class="fm-button" href="#">
+                <f:translate key="menu" extensionName="bj_polaroyd" />
+            </a>
+        </div>
+        <div class="sidemenu">
+            <ul class="fm-first-level">
+                <f:for each="{MainMenu}" as="menu" iteration="i">
+                    <li class="menu-{menu.data.uid}">
+                        <f:if condition="{menu.children}">
+                            <f:then>
+                                <a href="#menu-{menu.data.uid}">{menu.title}</a>
+                            </f:then>
+                            <f:else>
+                                <f:link.page pageUid="{menu.data.uid}">{menu.title}</f:link.page>
+                            </f:else>
+                        </f:if>
+                    </li>
+                </f:for>
+            </ul>
+            <f:render section="MainMenu" arguments="{_all}" />
+        </div>
+    </f:if>
+</div>
+
+<f:section name="MainMenu">
+    <f:for each="{MainMenu}" as="menu" iteration="i">
+        <f:if condition="{menu.children}">
+            <nav id="menu-{menu.data.uid}" class="{f:if(condition: '{menu.active}', then: 'active')}">
+                <f:for each="{menu.children}" as="childmenu" iteration="i">
+                    <f:link.page pageUid="{childmenu.data.uid}" class="{f:if(condition: '{data.uid}=={childmenu.data.shortcut}', then: 'active')}">
+                        <span class="subtitle">{childmenu.data.subtitle}</span> {childmenu.title}
+                    </f:link.page>
+                </f:for>
+            </nav>
+        </f:if>
+    </f:for>
+</f:section>

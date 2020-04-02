@@ -1,0 +1,13 @@
+<div class="row">
+    <div class="col-sm-12">
+        <strong>
+            <f:translate key="LLL:EXT:bj_polaroyd/Resources/Private/Language/locallang_db.xlf:wizard.bj_contactthreecolumn" extensionName="bj_polaroyd" />
+        </strong>
+    </div>
+    <f:for each="{contactthreecolumns}" as="contact" iteration="i">
+        <div class="col-md-2 col-md-offset-{f:if(condition: '{i.isFirst}', then: '1', else: '2')}">
+            <i class="icon {contact.icon} large-icon"></i>
+            <f:format.html>{contact.content}</f:format.html>
+        </div>
+    </f:for>
+</div>

@@ -1,0 +1,10 @@
+<section id="contact" class="section-bg-color ">
+    <div class="container centered ptb">
+        <f:for each="{contactthreecolumns}" as="contact" iteration="i">
+            <div class="col-md-2 col-md-offset-{f:if(condition: '{i.isFirst}', then: '1', else: '2')}">
+                <i class="icon {contact.data.icon} large-icon"></i>
+                <f:format.html>{contact.data.content}</f:format.html>
+            </div>
+        </f:for>
+    </div>
+</section>

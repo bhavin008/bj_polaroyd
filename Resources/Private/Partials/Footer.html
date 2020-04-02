@@ -1,0 +1,18 @@
+<section id="end" class="section-footer">
+    <div class="container centered ptb">
+		<div class="col-md-6 col-md-offset-3">
+			<p>
+				<f:if condition="{settings.facebook}">
+					<f:link.typolink parameter="{settings.facebook}"><i class="fa fa-facebook"></i></f:link.typolink>
+				</f:if>
+				<f:if condition="{settings.instagram}">
+					<f:link.typolink parameter="{settings.instagram}"><i class="fa fa-instagram"></i></f:link.typolink>
+				</f:if>
+				<f:if condition="{settings.mail}">
+					<f:link.typolink parameter="mailto:{settings.mail}"><i class="fa fa-envelope"></i></f:link.typolink>
+				</f:if>
+			</p>
+			<div class="credits"><f:cObject typoscriptObjectPath="lib.copyright" /></div>
+		</div>
+    </div>
+</section>

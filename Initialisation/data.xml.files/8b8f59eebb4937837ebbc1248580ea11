@@ -1,0 +1,27 @@
+<T3DataStructure>
+	<meta type="array">
+		<langDisable>1</langDisable>
+		<langDatabaseOverlay>1</langDatabaseOverlay>
+	</meta>
+	<sheets>
+		<additional>
+			<ROOT>
+				<TCEforms>
+					<sheetTitle>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:additional</sheetTitle>
+				</TCEforms>
+                <type>array</type>
+				<el>
+					<spaceBefore>
+						<TCEforms>
+							<label>LLL:EXT:bj_polaroyd/Resources/Private/Extensions/Gridelements/Language/locallang.xlf:spaceBefore</label>
+							<config>
+								<type>check</type>
+								<default>0</default>
+							</config>
+						</TCEforms>
+					</spaceBefore>
+				</el>
+			</ROOT>
+		</additional>
+	</sheets>
+</T3DataStructure>

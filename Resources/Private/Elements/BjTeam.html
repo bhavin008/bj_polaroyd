@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="row mt2 aligncenter" style="margin-bottom: 50px;">
+        <f:for each="{teammembers}" as="teammember">
+            <div class="col-lg-3 col-md-3" style="margin-bottom: 100px;">
+                <div class="ih-item circle effect1">
+                    <a href="javascript:;">
+                        <div class="spinner"></div>
+                        <div class="img">
+                            <f:image src="{teammember.images.0.uid}" maxWidth="210" maxHeight="210" alt="{teammember.images.0.alternative}" treatIdAsReference="1" />
+                        </div>
+                        <h4 class="centered">{teammember.data.name}</h4>
+                        <div class="info">
+                            <div class="info-back">
+                                <h3>{teammember.data.shortname}</h3>
+                                <p>
+                                    <f:format.raw>{teammember.data.description}</f:format.raw>
+                                </p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </f:for>
+    </div>
+</div>

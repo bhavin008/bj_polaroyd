@@ -1,0 +1,18 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<!-- categories -->
+<p class="sp">
+    <f:for each="{categories}" as="category">
+        <f:if condition="{category.shortcut}">
+            <f:then>
+                <f:link.typolink parameter="{category.shortcut}">
+                    <pl>{category.title}</pl><br />
+                </f:link.typolink>
+            </f:then>
+            <f:else>
+                <pl>{category.title}</pl><br />
+            </f:else>
+        </f:if>
+    </f:for>
+</p>
+
+</html>

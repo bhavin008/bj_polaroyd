@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-09-29T11:30:00Z" product-name="bj_polaroyd">
+		<header/>
+		<body>
+			<trans-unit id="tabs.language">
+				<source>Language</source>
+			</trans-unit>
+			<trans-unit id="tabs.access">
+				<source>Access</source>
+			</trans-unit>
+			
+			<trans-unit id="const.compress_css">
+				<source>Compress CSS</source>
+			</trans-unit>
+			<trans-unit id="const.compress_js">
+				<source>Compress Js</source>
+			</trans-unit>
+			<trans-unit id="const.concatenate_css">
+				<source>Concatenate Css</source>
+			</trans-unit>
+			<trans-unit id="const.concatenate_js">
+				<source>Concatenate Js</source>
+			</trans-unit>
+			<trans-unit id="const.content_objectExceptionHandler">
+				<source>Disable Content Object Exception Handler</source>
+			</trans-unit>
+			<trans-unit id="const.logo">
+				<source>Logo Path</source>
+			</trans-unit>
+			<trans-unit id="const.copyright">
+				<source>Copyright Text</source>
+			</trans-unit>
+			<trans-unit id="const.rootpage">
+				<source>Website Root page id</source>
+			</trans-unit>
+			<trans-unit id="const.facebook">
+				<source>Facebook Link</source>
+			</trans-unit>
+			<trans-unit id="const.instagram">
+				<source>Instagram Link</source>
+			</trans-unit>
+			<trans-unit id="const.mail">
+				<source>E-Mail ID</source>
+			</trans-unit>
+
+			<trans-unit id="cookie">
+                <source>Cookie Consent</source>
+            </trans-unit>
+			<trans-unit id="cookie.cookie_enable">
+                <source>Enable Cookie Consent: Enable or Disable Cookie Consent Box</source>
+            </trans-unit>
+			<trans-unit id="cookie.url">
+                <source>Privacy Page Id: Configure page-id of your Privacy &amp; Policy page</source>
+            </trans-unit>
+			<trans-unit id="cookie.theme">
+                <source>Layout: Please select layout, how do you want to display cookie consent box</source>
+            </trans-unit>
+			<trans-unit id="cookie.position">
+                <source>Position: Please select position to display at particular location of your website</source>
+            </trans-unit>
+			<trans-unit id="cookie.dismissOnScroll">
+                <source>Dismiss on scroll: Confiugre in px (pixel)</source>
+            </trans-unit>
+			<trans-unit id="cookie.type">
+                <source>Type: Select type from two options of info or opt-out</source>
+            </trans-unit>
+			<trans-unit id="cookie.background">
+                <source>Popup Background Color: Select background color of Popup</source>
+            </trans-unit>
+			<trans-unit id="cookie.text">
+                <source>Popup Text Color: Select content color of Popup</source>
+            </trans-unit>
+			<trans-unit id="cookie.btnbackground">
+                <source>Button Background Color: Select background color of Button</source>
+            </trans-unit>
+			<trans-unit id="cookie.btntext">
+                <source>Button Text Color: Select content color of Button</source>
+            </trans-unit>
+
+			<trans-unit id="wizard.bj_contactthreecolumn">
+				<source>Footer Contact Section</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_contactthreecolumn.description">
+				<source>Add contact section 3 column content from here.</source>
+			</trans-unit>
+			<trans-unit id="bj_contactthreecolumn.icon">
+				<source>Select Icon</source>
+			</trans-unit>
+			<trans-unit id="bj_contactthreecolumn.location">
+				<source>Location</source>
+			</trans-unit>
+			<trans-unit id="bj_contactthreecolumn.telephone">
+				<source>Telephone</source>
+			</trans-unit>
+			<trans-unit id="bj_contactthreecolumn.paperplane">
+				<source>Paper-Plane</source>
+			</trans-unit>
+			<trans-unit id="content">
+				<source>Add Content</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_photoslider">
+				<source>Photos Slider</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_photoslider.description">
+				<source>Add slider from photos from here.</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_catimgfilter">
+				<source>Category Filter</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_catimgfilter.description">
+				<source>Add category filter of images from here.</source>
+			</trans-unit>
+			<trans-unit id="tx_polaroyd_domain_model_catimgfilter">
+				<source>Catimgfilter</source>
+			</trans-unit>
+			<trans-unit id="tx_polaroyd_domain_model_catimgfilter.category">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_polaroyd_domain_model_catimgfilter.image">
+				<source>Image</source>
+			</trans-unit>
+			<trans-unit id="all">
+				<source>All</source>
+			</trans-unit>
+			<trans-unit id="center_check">
+				<source>Show Category Place</source>
+			</trans-unit>
+			<trans-unit id="center_check.center">
+				<source>Center</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_logolisting">
+				<source>Logos Listing</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_logolisting.description">
+				<source>Add logo images from here.</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_slider">
+				<source>Image Slider</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_slider.description">
+				<source>Add images slider from here.</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_sliderlayout">
+				<source>Select Slider Layout</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_sliderlayout.simple">
+				<source>Simple with header overlay</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_sliderlayout.carousel">
+				<source>Carousel</source>
+			</trans-unit>
+
+			<trans-unit id="polaroyd_icon">
+				<source>Select Favicon Icon</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.none">
+				<source>None</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.camera">
+				<source>Camera</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.heart">
+				<source>Heart</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.monitor">
+				<source>Monitor</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.pie">
+				<source>Pie</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.plus">
+				<source>Plus</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.wineglass">
+				<source>Wineglass</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.lightbulb">
+				<source>Lightbulb</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.monitor">
+				<source>Monitor</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.bookmarks">
+				<source>Bookmarks</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.flag">
+				<source>Flag</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.pricetag">
+				<source>Pricetag</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.people">
+				<source>People</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.cog">
+				<source>Cog</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.folder">
+				<source>Folder</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.briefcase">
+				<source>Briefcase</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.help">
+				<source>Help</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.chatbubble">
+				<source>Chatbubble</source>
+			</trans-unit>
+			<trans-unit id="polaroyd_icon.paperplane">
+				<source>Paper Plane</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_team">
+				<source>Add Team</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_team.description">
+				<source>Add Team member's details from here.</source>
+			</trans-unit>
+			<trans-unit id="bj_team.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="bj_team.shortname">
+				<source>Shor tname</source>
+			</trans-unit>
+			<trans-unit id="bj_team.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="bj_team.image">
+				<source>Image</source>
+			</trans-unit>
+
+			<trans-unit id="wizard.bj_pricing">
+				<source>Add Pricing</source>
+			</trans-unit>
+			<trans-unit id="wizard.bj_pricing.description">
+				<source>Add 4 Column pricing details from here.</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing">
+				<source>Pricing</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.highlight">
+				<source>Highlight</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.topborder">
+				<source>Top Border</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.header">
+				<source>Header</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.currency">
+				<source>Currency</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.amount">
+				<source>Amount</source>
+			</trans-unit>
+			<trans-unit id="tx_bjpolaroyd_domain_model_pricing.description">
+				<source>Description</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

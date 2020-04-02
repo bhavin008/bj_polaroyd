@@ -1,0 +1,62 @@
+TYPO3:
+  CMS:
+    Form:
+      persistenceManager:
+        allowedFileMounts:
+            10: 1:/bj_polaroyd/Forms/
+        # allowedExtensionPaths:
+        #   110: EXT:bj_polaroyd/Resources/Private/Extensions/Forms/
+        allowSaveToExtensionPaths: false
+        allowDeleteFromExtensionPaths: false
+      prototypes:
+        standard:
+          formElementsDefinition:
+            Form:
+              renderingOptions:
+                translation:
+                  translationFile:
+                    110: 'EXT:bj_polaroyd/Resources/Private/Language/locallang.xlf'
+                templateRootPaths:
+                  20: 'EXT:bj_polaroyd/Resources/Private/Extensions/Forms/Templates/'
+                partialRootPaths:
+                  20: 'EXT:bj_polaroyd/Resources/Private/Extensions/Forms/Partials/'
+            Checkbox:
+              properties:
+                containerClassAttribute: 'form-group custom-checkbox'
+                elementClassAttribute: 'form-control'
+            GridRow:
+              properties:
+                elementClassAttribute: 'form-row row'
+            MultiCheckbox:
+              properties:
+                containerClassAttribute: 'form-group'
+                elementClassAttribute: 'form-control'
+            MultiSelect:
+              properties:
+                elementClassAttribute: 'form-control'
+            RadioButton:
+              properties:
+                containerClassAttribute: 'form-group'
+                elementClassAttribute: 'form-control'
+            SingleSelect:
+              properties:
+                elementClassAttribute: 'form-control'
+            FileUpload:
+              properties:
+                elementClassAttribute: 'form-control'
+            ImageUpload:
+              properties:
+                elementClassAttribute: 'form-control'
+                imageLinkMaxWidth: 1200
+                imageMaxWidth: 200
+                imageMaxHeight: 200
+            DatePicker:
+              properties:
+                elementClassAttribute: 'form-control'
+                timeSelectorClassAttribute: 'custom-select form-control'
+
+      mixins:
+        formElementMixins:
+          FormElementMixin:
+            properties:
+              elementErrorClassAttribute: 'is-invalid'

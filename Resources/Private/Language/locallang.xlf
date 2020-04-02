@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-09-29T11:30:00Z" product-name="bj_polaroyd">
+		<header/>
+		<body>
+			<trans-unit id="menu">
+				<source>Menu</source>
+			</trans-unit>
+			<trans-unit id="message">
+                <source>We use cookies and other tracking technologies to personalize and improve your experience. By continuing to use our website you consent to this.</source>
+            </trans-unit>
+            <trans-unit id="dismiss">
+                <source>Allow Cookies</source>
+            </trans-unit>
+            <trans-unit id="deny">
+                <source>decline</source>
+            </trans-unit>
+            <trans-unit id="policy">
+                <source>Cookie Policy</source>
+            </trans-unit>
+            <trans-unit id="link">
+                <source>More info</source>
+            </trans-unit>
+            <trans-unit id="all">
+                <source>All</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>
