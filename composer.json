@@ -1,7 +1,7 @@
 {
     "name": "bj/bj-polaroyd",
     "type": "typo3-cms-extension",
-    "description": "The TYPO3 theme which includes complete template of this website.",
+    "description": "The TYPO3 theme which includes a full configured frontend theme for TYPO3, based on the Bootstrap CSS Framework. URL: https://templatemag.com/demo/Polaroyd/",
     "homepage": "https://extensions.typo3.org/extension/bj_polaroyd/",
     "license": "GPL-2.0+",
     "keywords": [

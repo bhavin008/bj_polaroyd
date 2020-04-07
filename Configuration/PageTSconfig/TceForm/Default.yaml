@@ -9,7 +9,7 @@ imports:
 # For complete documentation see http://docs.ckeditor.com/#!/api/CKEDITOR.config
 editor:
   config:
-    contentsCss: "EXT:Polaroyd/typo3conf/ext/bj_polaroyd/Resources/Public/RTE.css"
+    # contentsCss: "EXT:bj_polaroyd/Resources/Public/RTE.css"
     stylesSet:
       - { name: "Theme Button", element: "a", attributes: {'class': 'btn btn-lg btn-theme'} }
     format_tags: "p;h1;h2;h3;h4;h5;pre"
